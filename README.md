@@ -101,10 +101,6 @@ JWT_SECRET=your_jwt_secret
 REACT_APP_API_URL=https://billsync-43tt.onrender.com/api
 # For local development: REACT_APP_API_URL=http://localhost:4000/api
 ```
-
-⚠️ **Never commit real credentials to GitHub.**
-Reference: [https://docs.github.com/en/code-security](https://docs.github.com/en/code-security)
-
 ---
 
 ## ▶️ Running the Application
