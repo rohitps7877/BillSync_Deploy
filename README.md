@@ -300,8 +300,4 @@ For testing purposes, you can use these test accounts:
 
 ---
 
-## ❤️ Built With MERN Stack
-
----
-
-* GitHub: [@CodePhantom01](https://github.com/CodePhantom01)
+## Built With MERN Stack
